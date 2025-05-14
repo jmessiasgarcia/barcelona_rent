@@ -14,7 +14,6 @@ Contiene información sobre precios medios de alquiler por distrito y barrio, a�
 
 •⁠  ⁠Python
 •⁠  ⁠Pandas
-•⁠  ⁠Matplotlib / Seaborn (opcional)
 •⁠  ⁠Jupyter Notebook
 
 ## 🔍 Objetivos del análisis
